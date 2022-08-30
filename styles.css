@@ -1,0 +1,14 @@
+.special-select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+  background-image: url(./arrow.svg);
+  background-size: 0.8rem;
+  background-repeat: no-repeat;
+  background-position: 90% center;
+  border: 2px solid #b4b4b4;
+  width: 10rem;
+  height: 3rem;
+}
